@@ -8,4 +8,4 @@ Welcome to the Rawkode Academy Community :)
 * [Twitter](https://twitter.com/rawkode)
 
 ## Wiki
-[Wiki](https://github.com/rawkode-academy/community/wiki)
+[Wiki](https://github.com/rawkode-academy/wiki)
