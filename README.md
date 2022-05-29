@@ -8,4 +8,6 @@ Welcome to the Rawkode Academy Community :)
 * [Twitter](https://twitter.com/rawkode)
 
 ## Wiki
-[Wiki](wiki/README.md)
+* [Tools](wiki/tools.md) - A list of handy-dandy tools
+* [Tutorials](wiki/tutorials.md) - Learn a thing or two
+* [Videos](wiki/videos.md) - Videos worth watching
