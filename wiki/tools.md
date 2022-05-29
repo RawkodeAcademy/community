@@ -7,6 +7,9 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 * [hurl](https://github.com/Orange-OpenSource/hurl) - run and test HTTP requests with plain text
 * [Mokku](https://github.com/mukuljainx/mokku) - Mock API calls seamlessly
 
+## Testing
+* [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+
 ## Configuration management
 * [comtrya](https://github.com/comtrya/comtrya) - configuration manangement for localhost / dotfiles
 
