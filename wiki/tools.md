@@ -23,3 +23,4 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 * [kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator
 * [rg](https://github.com/BurntSushi/ripgrep) - grep alternative
 * [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git
