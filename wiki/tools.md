@@ -24,5 +24,6 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 * [kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator
 * [rg](https://github.com/BurntSushi/ripgrep) - grep alternative
 * [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+* [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 * [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git
