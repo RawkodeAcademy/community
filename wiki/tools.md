@@ -15,6 +15,7 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 
 ## System tools
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
+* [cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 * [fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 * [fd](https://github.com/sharkdp/fd) - find alternative
