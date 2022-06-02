@@ -1,5 +1,8 @@
 Interesting tutorials for all sorts of things
 
+## Linux
+* [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+
 ## Rust
 * [How to encrypt a file in Rust (Using streaming AEAD encryption)](https://kerkour.com/rust-file-encryption)
 
