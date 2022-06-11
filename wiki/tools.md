@@ -8,6 +8,7 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 * [Mokku](https://github.com/mukuljainx/mokku) - Mock API calls seamlessly
 
 ## Testing
+* [cargo-nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 * [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 
 ## Configuration management
