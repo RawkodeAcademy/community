@@ -5,6 +5,7 @@ Interesting tutorials for all sorts of things
 
 ## Rust
 * [How to encrypt a file in Rust (Using streaming AEAD encryption)](https://kerkour.com/rust-file-encryption)
+* [Plugins in Rust](https://adventures.michaelfbryan.com/posts/plugins-in-rust/)
 
 ## Typescript
 * [Authoring TypeScript Libraries](https://derekworthen.com/posts/authoring-typescript-libraries/)
