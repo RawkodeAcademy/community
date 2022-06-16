@@ -2,6 +2,7 @@ A list of tools (recommended by people from the [Discord](https://rawkode.chat/)
 
 ## Organizing
 * [WorkFlowy](https://workflowy.com/) - Incredibly powerful, yet simple tool to organize anything
+* [terminplaner](https://terminplaner6.dfn.de/en) - Privacy focused doodle.com alternative
 
 ## API related
 * [hurl](https://github.com/Orange-OpenSource/hurl) - run and test HTTP requests with plain text
